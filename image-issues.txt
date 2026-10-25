@@ -1,0 +1,22 @@
+Image prop audit 2026-10-21T18:00:27.945Z
+80 tsx files scanned
+18 issues
+
+app\about-us\page.tsx  [Image #1]  fill WITHOUT sizes
+app\placement\page.tsx  [Image #1]  fill WITHOUT sizes
+app\placement\page.tsx  [Image #2]  fill WITHOUT sizes
+components\AlumniOutcomesGrid.tsx  [Image #2]  fill WITHOUT sizes
+components\AlumniOutcomesGrid.tsx  [Image #3]  fill WITHOUT sizes
+components\AudiencePageTemplate.tsx  [Image #1]  fill WITHOUT sizes
+components\CourseDetailView.tsx  [Image #2]  fill WITHOUT sizes
+components\Footer.tsx  [Image #1]  fill WITHOUT sizes
+components\HomeView.tsx  [Image #1]  fill WITHOUT sizes
+components\HomeView.tsx  [Image #2]  fill WITHOUT sizes
+components\HomeView.tsx  [Image #3]  fill WITHOUT sizes
+components\HomeView.tsx  [Image #4]  fill WITHOUT sizes
+components\LogoMarquee.tsx  [Image #1]  fill WITHOUT sizes
+components\LogoMarquee.tsx  [Image #2]  fill WITHOUT sizes
+components\Navbar.tsx  [Image #1]  fill WITHOUT sizes
+components\VideoTestimonialPlayer.tsx  [Image #1]  fill WITHOUT sizes
+components\VideoTestimonialPlayer.tsx  [Image #2]  fill WITHOUT sizes
+components\VideoTestimonialPlayer.tsx  [Image #3]  fill WITHOUT sizes

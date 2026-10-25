@@ -1,0 +1,82 @@
+
+> karka-academy-redesign@0.1.0 build
+> npm run build:kb && npm run build:assets && next build
+
+
+> karka-academy-redesign@0.1.0 build:kb
+> tsx scripts/build-kb.ts
+
+[KB Builder] Successfully generated 68 chunks into C:\Users\VICTUS\Downloads\KARKA_AI_Claude_Upload\content\kb.json
+
+> karka-academy-redesign@0.1.0 build:assets
+> node scripts/generate-brand-assets.mjs
+
+[brand-assets] opengraph-image.png — 1200x630, 62.4 KB
+[brand-assets] twitter-image.png — 1200x630, 62.4 KB
+[brand-assets] apple-icon.png — 180x180, 3.3 KB
+  ▲ Next.js 14.2.35
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/66) ...
+   Generating static pages (16/66) 
+   Generating static pages (32/66) 
+   Generating static pages (49/66) 
+ ✓ Generating static pages (66/66)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                            Size     First Load JS
+┌ ○ /                                                  22.1 kB         207 kB
+├ ○ /_not-found                                        142 B          87.7 kB
+├ ○ /about-us                                          4.74 kB         186 kB
+├ ƒ /api/chat                                          0 B                0 B
+├ ƒ /api/chat-feedback                                 0 B                0 B
+├ ƒ /api/leads                                         0 B                0 B
+├ ○ /apple-icon.png                                    0 B                0 B
+├ ○ /blog                                              1.86 kB         183 kB
+├ ● /blog/[id]                                         1.48 kB         183 kB
+├   ├ /blog/how-to-land-first-software-job-with-genai
+├   ├ /blog/mern-vs-fullstack-python-comparison
+├   └ /blog/the-real-truth-about-pay-after-placement
+├ ○ /compare                                           9.04 kB         192 kB
+├ ○ /contact                                           6.15 kB         188 kB
+├ ○ /course-finder                                     11.7 kB         200 kB
+├ ○ /courses                                           7.13 kB         189 kB
+├ ● /courses/[slug]                                    10 kB           195 kB
+├   ├ /courses/mern-fullstack
+├   ├ /courses/react-java-fullstack
+├   ├ /courses/react-python-fullstack
+├   └ [+23 more paths]
+├ ● /courses/category/[category]                       7.57 kB         189 kB
+├   ├ /courses/category/coding
+├   ├ /courses/category/gen-ai
+├   ├ /courses/category/data
+├   └ [+5 more paths]
+├ ○ /for-college-students                              329 B           186 kB
+├ ○ /for-graduates                                     330 B           186 kB
+├ ○ /for-professionals                                 333 B           186 kB
+├ ○ /for-school-students                               344 B           186 kB
+├ ○ /hire-from-us                                      4.1 kB          196 kB
+├ ○ /icon.svg                                          0 B                0 B
+├ ○ /manifest.webmanifest                              0 B                0 B
+├ ○ /opengraph-image.png                               0 B                0 B
+├ ○ /placement                                         3.35 kB         188 kB
+├ ○ /privacy-policy                                    2.72 kB         179 kB
+├ ○ /roadmap                                           7.36 kB         190 kB
+├ ○ /robots.txt                                        0 B                0 B
+├ ○ /sitemap.xml                                       0 B                0 B
+├ ○ /terms-of-service                                  2.63 kB         179 kB
+└ ○ /twitter-image.png                                 0 B                0 B
++ First Load JS shared by all                          87.5 kB
+  ├ chunks/2117-c98662af95ea4d31.js                    31.7 kB
+  ├ chunks/fd9d1056-2d7a8d217105eef5.js                53.6 kB
+  └ other shared chunks (total)                        2.14 kB
+
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses getStaticProps)
+ƒ  (Dynamic)  server-rendered on demand
+

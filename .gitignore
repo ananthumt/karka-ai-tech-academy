@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+
+# Environment files - NEVER commit secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env.local
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# TypeScript cache
+*.tsbuildinfo
+next-env.d.ts
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Leads data / PII
+data/leads.json
+
+# Verification / audit artifacts written by scripts/*.mjs
+build-summary.txt
+verify-summary.txt
+port-status.txt
+image-audit.txt
+image-optimize.txt
+css-check.txt
+live.txt
+
+# Pre-optimization image backups (scripts/optimize-images.mjs)
+public/assets/.original/
+
+# Protect all environment files
+.env.*
+!.env.example

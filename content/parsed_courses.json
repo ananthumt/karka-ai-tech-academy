@@ -1,0 +1,2141 @@
+{
+  "mern-fullstack": {
+    "slug": "mern-fullstack",
+    "title": "MERN Fullstack Development",
+    "desc": "Master Full-Stack web development using MongoDB, Express, React, and Node.js. Build scalable web applications from scratch.",
+    "metaDesc": "Master Full-Stack web development using MongoDB, Express, React, and Node.js. Build scalable web applications from scratch.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnMERN Fullstack Development?",
+        "desc": "The MERN stack is the absolute industry standard for modern startups and global tech companies looking for fast, scalable web ecosystems."
+      },
+      {
+        "title": "High Market Demand",
+        "desc": "The MERN stack is the absolute industry standard for modern startups and global tech companies looking for fast, scalable web ecosystems."
+      },
+      {
+        "title": "Unified Language Power",
+        "desc": "Learning JavaScript for both frontend and backend makes you highly efficient, allowing you to develop entire applications solo."
+      },
+      {
+        "title": "Premium Tech Salaries",
+        "desc": "Fullstack web developers command exceptionally high packages and remote freelance roles due to their end-to-end building capabilities."
+      },
+      {
+        "title": "Rapid Career Growth",
+        "desc": "Mastering a complete stack allows you to transition into product management, system architecture, or tech lead positions much faster."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is the course duration and mode?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What modules are covered in this curriculum?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Is prior coding experience required to join?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What placement support do you provide after graduation?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "react-java-fullstack": {
+    "slug": "react-java-fullstack",
+    "title": "React + Java Full Stack Development",
+    "desc": "Build enterprise-grade applications with React and Spring Boot. Learn engineering best practices for scalable backends.",
+    "metaDesc": "Build enterprise-grade applications with React and Spring Boot. Learn engineering best practices for scalable backends.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnReact + Java Full Stack Development?",
+        "desc": "Major banking systems, healthcare networks, and multinational corporations run almost entirely on Java backend frameworks."
+      },
+      {
+        "title": "Enterprise Dominance",
+        "desc": "Major banking systems, healthcare networks, and multinational corporations run almost entirely on Java backend frameworks."
+      },
+      {
+        "title": "High Job Stability",
+        "desc": "Corporate institutions constantly recruit developers who understand robust Java systems coupled with fluid React web interfaces."
+      },
+      {
+        "title": "Long-Term Career Value",
+        "desc": "Mastering Java opens doors to high-level system architect positions and secure enterprise technology careers globally."
+      },
+      {
+        "title": "Unmatched Security Standards",
+        "desc": "Java’s robust architecture makes it the gold standard for high-security, high-traffic transactional platforms."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What are the main modules taught in this course?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Why pair React with Java?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What is the duration of this bootcamp?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Do you offer mock interview preparation?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "react-python-fullstack": {
+    "slug": "react-python-fullstack",
+    "title": "React + Python Full Stack Development",
+    "desc": "Develop modern, high-performance web applications with React and Django/FastAPI. Focus on rapid development cycles.",
+    "metaDesc": "Develop modern, high-performance web applications with React and Django/FastAPI. Focus on rapid development cycles.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnReact + Python Full Stack Development?",
+        "desc": "Python is the fastest-growing backend language, powering data systems, automation, and modern tech applications."
+      },
+      {
+        "title": "The Language of AI & Tech",
+        "desc": "Python is the fastest-growing backend language, powering data systems, automation, and modern tech applications."
+      },
+      {
+        "title": "Versatile Career Paths",
+        "desc": "A Python fullstack developer can jump between core software development, web application engineering, and data pipeline management effortlessly."
+      },
+      {
+        "title": "High-Growth Startups Ecosystem",
+        "desc": "Modern technology startups prefer Python frameworks (like Django or FastAPI) due to their rapid development speed and simple scaling."
+      },
+      {
+        "title": "Excellent Developer Experience",
+        "desc": "Python's clean syntax allows developers to write less code and build powerful, readable applications much faster."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What frameworks are covered in this course?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Do I need a strong math background?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Is this course available online or offline?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How does the Pay After Placement system work?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "genai-foundations": {
+    "slug": "genai-foundations",
+    "title": "Generative AI Foundations",
+    "desc": "Master the basics of Generative AI, prompt engineering, and fundamental AI concepts. Start your journey into the tech future.",
+    "metaDesc": "Master the basics of Generative AI, prompt engineering, and fundamental AI concepts. Start your journey into the tech future.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnGenerative AI Foundations?",
+        "desc": "Knowledge of generative AI tools is rapidly becoming a standard requirement for all modern corporate, marketing, and creative jobs."
+      },
+      {
+        "title": "Essential Modern Skill Set",
+        "desc": "Knowledge of generative AI tools is rapidly becoming a standard requirement for all modern corporate, marketing, and creative jobs."
+      },
+      {
+        "title": "Exponential Productivity",
+        "desc": "Learning to use AI effectively allows you to finish copywriting, graphics work, and research up to 10 times faster than average."
+      },
+      {
+        "title": "Future-Proof Career",
+        "desc": "Understanding AI ensures you stay relevant and highly competitive as automation sweeps through standard office environments."
+      },
+      {
+        "title": "Accessible Technical Transition",
+        "desc": "This course allows professionals from non-technical backgrounds to adopt advanced technologies without writing a single line of code."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Who is this course designed for?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Is coding required for this program?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How long is this program and what is the learning mode?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Will I get a certificate after completion?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "genai-mastery": {
+    "slug": "genai-mastery",
+    "title": "Generative AI Mastery",
+    "desc": "Advanced Generative AI techniques, including fine-tuning and complex AI integration. Drive innovation with customized AI.",
+    "metaDesc": "Advanced Generative AI techniques, including fine-tuning and complex AI integration. Drive innovation with customized AI.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnGenerative AI Mastery?",
+        "desc": "Organizations are actively seeking specialists who can connect isolated AI models into cohesive, automated corporate workflows."
+      },
+      {
+        "title": "High Industry Value",
+        "desc": "Organizations are actively seeking specialists who can connect isolated AI models into cohesive, automated corporate workflows."
+      },
+      {
+        "title": "Automation Leadership",
+        "desc": "Master the strategic skills required to advise, build, and deploy custom internal tools that lower company operational costs."
+      },
+      {
+        "title": "Lucrative Consulting Options",
+        "desc": "Businesses pay premium retainer fees to independent AI implementation consultants who can automate their backend offices."
+      },
+      {
+        "title": "Career Differentiation",
+        "desc": "Standing out as an AI workflow master places you ahead of traditional developers in modern tech-forward corporate environments."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is covered in this course?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What career paths open up after this course?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What is the duration of this program?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Do I need a strong programming background?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "genai-llm-developer": {
+    "slug": "genai-llm-developer",
+    "title": "Gen AI & LLM Developer",
+    "desc": "Build production-ready LLM applications, RAG systems, and AI-powered agents. Become an architect of intelligent systems.",
+    "metaDesc": "Build production-ready LLM applications, RAG systems, and AI-powered agents. Become an architect of intelligent systems.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnGen AI & LLM Developer?",
+        "desc": "AI and LLM developers command some of the highest salaries and contract rates in the global technology space today."
+      },
+      {
+        "title": "The Highest-Paying Tech Tier",
+        "desc": "AI and LLM developers command some of the highest salaries and contract rates in the global technology space today."
+      },
+      {
+        "title": "Critical Competitive Edge",
+        "desc": "Companies want proprietary, secure AI engines that run on their internal data without exposing it to public clouds."
+      },
+      {
+        "title": "Unmatched Innovation Potential",
+        "desc": "Gain the technical power to build next-generation applications, intelligent search platforms, and autonomous software tools."
+      },
+      {
+        "title": "Pioneering Tech Role",
+        "desc": "Be at the forefront of the AI revolution, designing systems that are actively reshaping how humanity interacts with computers."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "Is coding required for this track?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What tools and technologies will I use?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How long does this developer track take?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How does the Pay After Placement model apply here?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "ai-data-science": {
+    "slug": "ai-data-science",
+    "title": "AI & Data Science",
+    "desc": "Comprehensive study of AI and Data Science concepts. Master the tools and machine learning models that drive the AI revolution.",
+    "metaDesc": "Comprehensive study of AI and Data Science concepts. Master the tools and machine learning models that drive the AI revolution.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnAI & Data Science?",
+        "desc": "Every global organization depends entirely on data science to forecast revenue, understand consumer patterns, and outpace market competitors."
+      },
+      {
+        "title": "The Blueprint of Enterprise",
+        "desc": "Every global organization depends entirely on data science to forecast revenue, understand consumer patterns, and outpace market competitors."
+      },
+      {
+        "title": "Incredible Salary Growth",
+        "desc": "Experienced data scientists command premium compensation packages due to the direct fiscal value they extract from data assets."
+      },
+      {
+        "title": "Versatile Industry Scope",
+        "desc": "From banking risk assessments to automated medical diagnostics, data science skills translate perfectly across any sector worldwide."
+      },
+      {
+        "title": "High Structural Security",
+        "desc": "Data-driven roles offer massive long-term stability as modern businesses shift to entirely data-dependent operation workflows."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What tools are covered in this curriculum?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "I don't have a strong math degree, can I join?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What is the course duration and learning options?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What placement support do you guarantee?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "data-analytics-ai": {
+    "slug": "data-analytics-ai",
+    "title": "Data Analytics with AI",
+    "desc": "Advanced data analytics techniques powered by AI tools. Learn to turn raw data into strategic, actionable business insights.",
+    "metaDesc": "Advanced data analytics techniques powered by AI tools. Learn to turn raw data into strategic, actionable business insights.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnData Analytics with AI?",
+        "desc": "Almost every mid-sized business needs dedicated data analysts to track sales funnels, look at ad spending performance, and optimize costs."
+      },
+      {
+        "title": "Immediate Corporate Openings",
+        "desc": "Almost every mid-sized business needs dedicated data analysts to track sales funnels, look at ad spending performance, and optimize costs."
+      },
+      {
+        "title": "Clear Career Growth",
+        "desc": "Data analysts work directly with executive leadership teams, creating direct opportunities to move up into strategic management roles."
+      },
+      {
+        "title": "Highly Accessible Tech Track",
+        "desc": "Perfect for individuals wanting a respected technology career that focuses heavily on logic and business insights over deep engine coding."
+      },
+      {
+        "title": "Invaluable Decision Power",
+        "desc": "Analysts directly influence company profitability, making them highly appreciated and indispensable team members."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is the difference between Data Science and Data Analytics?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What software will I learn during the program?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How long does this program run?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Do I get real work experience?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "data-engineering": {
+    "slug": "data-engineering",
+    "title": "Data Engineering & Big Data Pipelines",
+    "desc": "Master the data architecture and engineering required for big data. Build the pipes that fuel the modern tech industry.",
+    "metaDesc": "Master the data architecture and engineering required for big data. Build the pipes that fuel the modern tech industry.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnData Engineering & Big Data Pipelines?",
+        "desc": "Data scientists and analysts cannot do their jobs without data engineers building the secure, fast systems that move the actual data."
+      },
+      {
+        "title": "Critical Tech Infrastructure",
+        "desc": "Data scientists and analysts cannot do their jobs without data engineers building the secure, fast systems that move the actual data."
+      },
+      {
+        "title": "Massive Enterprise Demand",
+        "desc": "Tech companies are heavily investing in data pipelines, creating a continuous shortage of certified infrastructure engineers."
+      },
+      {
+        "title": "High Career Premium",
+        "desc": "Data engineers often earn higher starting compensation packages than standard developers due to the technical complexity of data pipelines."
+      },
+      {
+        "title": "Future-Proof Skillset",
+        "desc": "As data volumes continue to grow exponentially, the systems that organize and clean this data will always remain vital."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What are the primary modules covered?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Is this course code-heavy?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What is the duration and mode of learning?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Do you help with job placement?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "ui-ux-design": {
+    "slug": "ui-ux-design",
+    "title": "UI/UX Design",
+    "desc": "Master the art of designing intuitive, beautiful user interfaces and experiences using industry-standard design tools.",
+    "metaDesc": "Master the art of designing intuitive, beautiful user interfaces and experiences using industry-standard design tools.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnUI/UX Design?",
+        "desc": "A digital application's success depends entirely on its usability. Companies hire UI/UX designers to keep users happy and engaged."
+      },
+      {
+        "title": "The Core of Product Success",
+        "desc": "A digital application's success depends entirely on its usability. Companies hire UI/UX designers to keep users happy and engaged."
+      },
+      {
+        "title": "No-Code Creative Tech Career",
+        "desc": "Ideal for creative individuals who want to work in premium software companies without writing complex backend programming code."
+      },
+      {
+        "title": "Exceptional Career Freedom",
+        "desc": "UI/UX designers can jump between corporate product design roles, startup consulting, or high-paying global freelance design contracts."
+      },
+      {
+        "title": "High Financial Upside",
+        "desc": "Skilled product designers command exceptional compensation packages as they directly influence a brand's customer conversion metrics."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What software tools will I master?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Do I need an art background?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What is the course duration and mode of learning?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Do you support freelance portfolio building?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "web-designing": {
+    "slug": "web-designing",
+    "title": "Web Designing",
+    "desc": "Learn modern web design principles and tools to create stunning websites. Master layouts, typography, and responsiveness.",
+    "metaDesc": "Learn modern web design principles and tools to create stunning websites. Master layouts, typography, and responsiveness.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnWeb Designing?",
+        "desc": "Every business globally requires an online presence. Millions of websites are built or redesigned monthly, keeping skilled design talent busy."
+      },
+      {
+        "title": "Continuous Corporate Demand",
+        "desc": "Every business globally requires an online presence. Millions of websites are built or redesigned monthly, keeping skilled design talent busy."
+      },
+      {
+        "title": "Rapid Freelance Monetization",
+        "desc": "Web designing is one of the easiest skills to monetize quickly through independent freelance projects for local or international business owners."
+      },
+      {
+        "title": "Perfect Bridge to Tech",
+        "desc": "This track serves as the ideal baseline for entering the technology sector, pairing visual design execution with foundational front-end programming."
+      },
+      {
+        "title": "Dynamic Creative Satisfaction",
+        "desc": "Combine logical coding frameworks with fluid aesthetic designs to bring interactive concepts to life."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is covered in this curriculum?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How does this differ from Fullstack courses?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How long is this program?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How does Pay After Placement help me?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "graphic-designing": {
+    "slug": "graphic-designing",
+    "title": "Graphic Designing & Branding",
+    "desc": "Master visual communication and corporate branding through professional graphic design. Create impact through visuals.",
+    "metaDesc": "Master visual communication and corporate branding through professional graphic design. Create impact through visuals.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnGraphic Designing & Branding?",
+        "desc": "From logos to promotional banners, every company requires professional visuals to attract clients and maintain authority."
+      },
+      {
+        "title": "The Core of Brand Identity",
+        "desc": "From logos to promotional banners, every company requires professional visuals to attract clients and maintain authority."
+      },
+      {
+        "title": "Diverse Industry Placement",
+        "desc": "Graphic designers find immediate placement across advertising agencies, corporate branding teams, publisher units, and media houses."
+      },
+      {
+        "title": "Thriving Independent Career",
+        "desc": "Graphic layout design offers immense scope for independent freelancing, remote agency contracts, and design template creation."
+      },
+      {
+        "title": "Highly Adaptable Skill",
+        "desc": "Good visual design skills transfer easily across social media marketing, user interface styling, and print publication industries."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What application suites will I master?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What career paths are available after this course?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How long is this course and what is the mode?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Is prior art experience needed?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "video-editing": {
+    "slug": "video-editing",
+    "title": "Video Editing",
+    "desc": "Master professional video editing with Premiere Pro and After Effects. Learn to create cinematic digital experiences.",
+    "metaDesc": "Master professional video editing with Premiere Pro and After Effects. Learn to create cinematic digital experiences.",
+    "details": {
+      "duration": "Share any previous work.3EnrollmentSecure your spot.How OurVideo EditingComparesFeatureThis ProgramStandard CoursesCurriculumIndustry-Aligned & UpdatedTheoreticalMentorship1-on-1 with ExpertsGroup Sessions onlyPlacementDedicated SupportLimited / NoneProjectsLive Industry ProjectsBasic ExercisesInternshipChance to work on Internship @AgileTribersNo Official SupportCommunityAlumni Network AccessLimited AccessMeet YourVideo EditingInstructorsLucas VanceLead EditorCineFlow15 YearsExperienceVideo EditingFAQsWhat career opportunities are available?You can become a Professional Video Editor, Motion Graphics Designer, YouTube Video Editor, Social Media Video Editor, Reels Editor, Content Creator, Post Production Editor, or Freelance Video Editor.Will I learn AI editing tools?Yes. The curriculum includes AI-powered editing, automatic subtitles, voice enhancement, background removal, AI video generation, motion tracking, and smart editing workflows alongside Premiere Pro, After Effects, and DaVinci Resolve.How long is the course?The Video Editing course runs for 3-6 months and is available Offline (Nagercoil Campus) and Online.Do I need editing experience?No. This course starts from the fundamentals and gradually advances to professional-level editing, cinematic storytelling, motion graphics, and commercial video production.Still have questions?Our academic counselors are here to help you make the right choice for your career. Reach out to us today.Request a CallbackChat on WhatsAppReady to Future-Proof Your Career?Join the AI revolution with Karka Academy today and start your journey with industry mentors.Apply for AdmissionExplore CoursesEmpowering the next generation of developers withGenAI Infusededucation and placement-focused mentorship.Our ProgramsHomeAll CoursesPlacementFree RoadmapKarka AcademyAbout UsOur MentorsSuccess StoriesBlogHire From UsContactStay UpdatedAcademy HQNagercoil, Tamil Nadu, IndiaPhone+91 9487530243©2026Karka Academy. All rights reserved.Privacy PolicyTerms of ServiceBuilt with Passion by Karka"
+    },
+    "whyLearn": [
+      {
+        "title": "Why LearnVideo Editing?",
+        "desc": "Every brand, influencer, YouTuber, filmmaker, and company needs engaging video content to reach millions of viewers."
+      },
+      {
+        "title": "Content is King",
+        "desc": "Every brand, influencer, YouTuber, filmmaker, and company needs engaging video content to reach millions of viewers."
+      },
+      {
+        "title": "Massive Creator Economy Demand",
+        "desc": "Video editors are among the highest-demand creative professionals across agencies, production houses, startups, and social media platforms."
+      },
+      {
+        "title": "Creative & High-Paying Career",
+        "desc": "Build a career as a Video Editor, Motion Graphics Designer, Reels Editor, YouTube Editor, or Commercial Editor."
+      },
+      {
+        "title": "Freelance & Remote Opportunities",
+        "desc": "Work with international clients, YouTubers, agencies, and brands from anywhere in the world."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What career opportunities are available?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Will I learn AI editing tools?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How long is the course?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Do I need editing experience?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "graphic-designing-dm": {
+    "slug": "graphic-designing-dm",
+    "title": "Social Media Graphic Design",
+    "desc": "Learn visual storytelling and creative design principles for digital media. Create impactful designs for every platform.",
+    "metaDesc": "Learn visual storytelling and creative design principles for digital media. Create impactful designs for every platform.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnSocial Media Graphic Design?",
+        "desc": "Every reel, post, and thumbnail lives or dies by its first-second visual impact — this track trains you specifically for that fast-scroll, mobile-first audience."
+      },
+      {
+        "title": "Built for the Feed",
+        "desc": "Every reel, post, and thumbnail lives or dies by its first-second visual impact — this track trains you specifically for that fast-scroll, mobile-first audience."
+      },
+      {
+        "title": "Paired With Video & Motion",
+        "desc": "Learn graphic design alongside the video editing and animation skills in this track, so you can design cohesive visuals across a creator's entire content pipeline, not just static posts."
+      },
+      {
+        "title": "Creator Economy Demand",
+        "desc": "Influencers, YouTubers, and social-first brands constantly need thumbnail artists and social creative designers — a fast-growing, high-volume freelance market."
+      },
+      {
+        "title": "Rapid Turnaround Skillset",
+        "desc": "Master template-driven, high-speed design workflows built for daily content output, not slow campaign cycles."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "How is this different from the Graphic Designing course in the Design track?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What software tools will I use?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Do I need prior design experience?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What is the course duration and mode?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "multimedia-animation": {
+    "slug": "multimedia-animation",
+    "title": "Multimedia & Animation",
+    "desc": "Explore the world of 2D/3D animation and multimedia production. Breathe life into your imagination with practical projects.",
+    "metaDesc": "Explore the world of 2D/3D animation and multimedia production. Breathe life into your imagination with practical projects.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnMultimedia & Animation?",
+        "desc": "Motion graphic designers and animators are among the highest-paid professionals in the creative media and tech fields."
+      },
+      {
+        "title": "Premium Creative Career",
+        "desc": "Motion graphic designers and animators are among the highest-paid professionals in the creative media and tech fields."
+      },
+      {
+        "title": "High Industry Versatility",
+        "desc": "Your assets will power mobile application animations, corporate videos, explanatory advertisements, UI interactions, and streaming titles."
+      },
+      {
+        "title": "Immense Competitive Value",
+        "desc": "Adding motion elements to standard design work multiplies your professional capability and hourly freelance billing rates significantly."
+      },
+      {
+        "title": "Lucrative Global Markets",
+        "desc": "High-end motion graphics and visual effects are heavily outsourced, opening doors to highly lucrative international remote projects."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What application suites will I learn?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Is this course suitable for beginners?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What is the duration and mode of study?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Do you offer job placement support?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "digital-marketing": {
+    "slug": "digital-marketing",
+    "title": "Digital Marketing",
+    "desc": "Master SEO, SEM, and social media marketing to drive business growth. Become a highly paid, data-driven marketer.",
+    "metaDesc": "Master SEO, SEM, and social media marketing to drive business growth. Become a highly paid, data-driven marketer.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnDigital Marketing?",
+        "desc": "Every business today depends on digital platforms to reach customers. Digital marketing professionals are among the most in-demand experts worldwide."
+      },
+      {
+        "title": "The Future of Marketing",
+        "desc": "Every business today depends on digital platforms to reach customers. Digital marketing professionals are among the most in-demand experts worldwide."
+      },
+      {
+        "title": "Huge Industry Demand",
+        "desc": "Companies, startups, agencies, and e-commerce businesses constantly hire SEO specialists, performance marketers, social media managers, and marketing strategists."
+      },
+      {
+        "title": "High Income Opportunities",
+        "desc": "Work as a Digital Marketing Executive, Performance Marketer, SEO Specialist, Google Ads Expert, Meta Ads Specialist, or become a successful freelancer."
+      },
+      {
+        "title": "Business & Freelancing Freedom",
+        "desc": "Learn skills that help you build your own agency, grow personal brands, manage client campaigns, or launch your own business."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is the mode of training?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Do you offer placement support?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Can I pay in installments?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "seo-analyst": {
+    "slug": "seo-analyst",
+    "title": "SEO Analyst",
+    "desc": "Become an expert in search engine optimization and data-driven marketing. Rule the search results and drive business growth.",
+    "metaDesc": "Become an expert in search engine optimization and data-driven marketing. Rule the search results and drive business growth.",
+    "details": {
+      "duration": "Simple keyword research tasks.How OurSEO AnalystComparesFeatureThis ProgramStandard CoursesCurriculumIndustry-Aligned & UpdatedTheoreticalMentorship1-on-1 with ExpertsGroup Sessions onlyPlacementDedicated SupportLimited / NoneProjectsLive Industry ProjectsBasic ExercisesInternshipChance to work on Internship @AgileTribersNo Official SupportCommunityAlumni Network AccessLimited AccessMeet YourSEO AnalystInstructorsLeo MillerSEO SpecialistSearchLogic8 YearsExperienceSEO AnalystFAQsWhat software tools are covered in this course?Enterprise search performance management dashboards, crawl simulation tools, keyword competition analytics engines, and local map data systems.Is this course code-heavy?No. While you will interact with web structures, layout tags, and speed parameters, it focuses on strategy and analytics rather than deep programming code.What is the duration of this program?The certification track runs for 3 to 6 months and is delivered as a premium offline course in Nagercoil or via interactive online tracks.How does the Pay After Placement structure help me?It eliminates financial risk. You learn from experts, build real-world performance case studies, and start payments only when you land an industry role.Still have questions?Our academic counselors are here to help you make the right choice for your career. Reach out to us today.Request a CallbackChat on WhatsAppReady to Future-Proof Your Career?Join the AI revolution with Karka Academy today and start your journey with industry mentors.Apply for AdmissionExplore CoursesEmpowering the next generation of developers withGenAI Infusededucation and placement-focused mentorship.Our ProgramsHomeAll CoursesPlacementFree RoadmapKarka AcademyAbout UsOur MentorsSuccess StoriesBlogHire From UsContactStay UpdatedAcademy HQNagercoil, Tamil Nadu, IndiaPhone+91 9487530243©2026Karka Academy. All rights reserved.Privacy PolicyTerms of ServiceBuilt with Passion by Karka"
+    },
+    "whyLearn": [
+      {
+        "title": "Why LearnSEO Analyst?",
+        "desc": "Free organic search traffic is incredibly valuable to businesses. A certified SEO analyst directly saves companies thousands in ad spending."
+      },
+      {
+        "title": "High Business Capital Value",
+        "desc": "Free organic search traffic is incredibly valuable to businesses. A certified SEO analyst directly saves companies thousands in ad spending."
+      },
+      {
+        "title": "Long-Term Corporate Value",
+        "desc": "SEO is an ongoing process, leading to highly stable corporate jobs and long-term consulting retainers for marketing professionals."
+      },
+      {
+        "title": "Data-Driven Strategic Path",
+        "desc": "Perfect for individuals who enjoy analytical breakdowns, market research, code structural audits, and semantic content strategy."
+      },
+      {
+        "title": "Excellent Freelance Scope",
+        "desc": "Most businesses struggle with SEO and aggressively hire external analysts on stable monthly retainer contracts."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What software tools are covered in this course?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Is this course code-heavy?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What is the duration of this program?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How does the Pay After Placement structure help me?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "storytelling-content-writing": {
+    "slug": "storytelling-content-writing",
+    "title": "Storytelling & Content Writing",
+    "desc": "Craft compelling stories and high-quality content for various platforms. Master the art of the professional written word.",
+    "metaDesc": "Craft compelling stories and high-quality content for various platforms. Master the art of the professional written word.",
+    "details": {
+      "duration": "Great writing needs great visuals to stand out online. This program features hands-on bonus modules in Graphic Designing and Video Editing. You will learn how to design stunning layouts for your written pieces and edit highly engaging video reels from your own scripts—giving you the exact multi-media toolkit modern agencies look for!Why LearnStorytelling & Content Writing?The Engine of Every CampaignEvery script, ad graphic text, email blast, website landing page, and corporate presentation requires compelling text to succeed.Unmatched Freelance FlexibilityProfessional content writers can secure diverse freelance retainer streams, ranging from scriptwriting to technical corporate content writing.High Modern DemandBrands need a consistent voice across digital channels, creating a continuous need for versatile, strategic text content engineers.Low Barrier to EntryStart a professional digital career using your logical thinking and language skills without needing any technical software code.Storytelling & Content WritingCurriculum1CopywritingHeadline AnalysisCall-to-Action (CTA)Sales Copy Techniques2Long-form ContentBlogging StrategiesE-book CreationWhitepapers3Content StrategyEditorial CalendarsTone of VoiceContent AuditsWhy Choose Karka for YourStorytelling & Content WritingSix reasons our students graduate job-ready, not just certificate-ready.Zero Upfront Fees (Pay After Placement)We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job.AI-First Practical CurriculumWe don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants.Real-World Agency ProjectsSay goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets.Guaranteed Internship ExperienceTransition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio.Multi-Skill AdvantageWe build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit.End-to-End Placement SupportOur dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners.Your Career,Our ResponsibilityWe don't just teach you; we prepare you for your dream job. Our dedicated placement cell works tirelessly to connect you with top opportunities.1-on-1 Career MentoringUnlimited Mock InterviewsResume & Portfolio BuildingIndustry Networking95%Placement RateConsistent track record of success\"Karka taught me that writing is about data and psychology, not just fancy words. Creating real content funnels for active brands helped me build an impressive professional writing portfolio.\"—Content Writing Graduate ReviewStorytelling & Content WritingAdmission Process1ApplicationSubmit your interest via our website.2EnrollmentConfirm your spot.How OurStorytelling & Content WritingComparesFeatureThis ProgramStandard CoursesCurriculumIndustry-Aligned & UpdatedTheoreticalMentorship1-on-1 with ExpertsGroup Sessions onlyPlacementDedicated SupportLimited / NoneProjectsLive Industry ProjectsBasic ExercisesInternshipChance to work on Internship @AgileTribersNo Official SupportCommunityAlumni Network AccessLimited AccessMeet YourStorytelling & Content WritingInstructorsDiana PrinceContent StrategistInkWell12 YearsExperienceStorytelling & Content WritingFAQsWhat career trajectories are available?Conversion Copywriter, Brand Storyteller, Script Supervisor, Content Manager, and Corporate Communications Specialist.Will I learn SEO writing in this course?Yes. A significant portion of this bootcamp focuses on writing highly optimized copy that ranks on search engines while keeping human readers fully engaged.How long is this program and how is it held?The course spans 3 to 6 months and is available offline at our Nagercoil campus and online.Do I get an official certificate?Yes. You will graduate with an official Karka Academy Content Writing Certification and a verified portfolio of published copy.Still have questions?Our academic counselors are here to help you make the right choice for your career. Reach out to us today.Request a CallbackChat on WhatsAppReady to Future-Proof Your Career?Join the AI revolution with Karka Academy today and start your journey with industry mentors.Apply for AdmissionExplore CoursesEmpowering the next generation of developers withGenAI Infusededucation and placement-focused mentorship.Our ProgramsHomeAll CoursesPlacementFree RoadmapKarka AcademyAbout UsOur MentorsSuccess StoriesBlogHire From UsContactStay UpdatedAcademy HQNagercoil, Tamil Nadu, IndiaPhone+91 9487530243©2026Karka Academy. All rights reserved.Privacy PolicyTerms of ServiceBuilt with Passion by Karka",
+      "mode": "Great writing needs great visuals to stand out online. This program features hands-on bonus modules in Graphic Designing and Video Editing. You will learn how to design stunning layouts for your written pieces and edit highly engaging video reels from your own scripts—giving you the exact multi-media toolkit modern agencies look for!"
+    },
+    "whyLearn": [
+      {
+        "title": "Why LearnStorytelling & Content Writing?",
+        "desc": "Every script, ad graphic text, email blast, website landing page, and corporate presentation requires compelling text to succeed."
+      },
+      {
+        "title": "The Engine of Every Campaign",
+        "desc": "Every script, ad graphic text, email blast, website landing page, and corporate presentation requires compelling text to succeed."
+      },
+      {
+        "title": "Unmatched Freelance Flexibility",
+        "desc": "Professional content writers can secure diverse freelance retainer streams, ranging from scriptwriting to technical corporate content writing."
+      },
+      {
+        "title": "High Modern Demand",
+        "desc": "Brands need a consistent voice across digital channels, creating a continuous need for versatile, strategic text content engineers."
+      },
+      {
+        "title": "Low Barrier to Entry",
+        "desc": "Start a professional digital career using your logical thinking and language skills without needing any technical software code."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What career trajectories are available?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Will I learn SEO writing in this course?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How long is this program and how is it held?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Do I get an official certificate?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "cloud-devops": {
+    "slug": "cloud-devops",
+    "title": "Cloud & DevOps Engineering",
+    "desc": "Master cloud infrastructure and DevOps practices for scalable systems. Put modern cloud infrastructure at your fingertips.",
+    "metaDesc": "Master cloud infrastructure and DevOps practices for scalable systems. Put modern cloud infrastructure at your fingertips.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnCloud & DevOps Engineering?",
+        "desc": "Cloud architecture and DevOps are critical to keeping platforms online, making these roles some of the highest-paying tracks in the tech sector."
+      },
+      {
+        "title": "Elite Tech Salaries",
+        "desc": "Cloud architecture and DevOps are critical to keeping platforms online, making these roles some of the highest-paying tracks in the tech sector."
+      },
+      {
+        "title": "High Operational Value",
+        "desc": "Companies prioritize engineers who can deploy code fast, reduce cloud bills, and prevent software crashes under heavy user traffic."
+      },
+      {
+        "title": "Excellent Career Longevity",
+        "desc": "As global business ecosystems shift entirely to cloud networks, certified systems infrastructure engineers enjoy massive job security."
+      },
+      {
+        "title": "Global Remote Work Scope",
+        "desc": "Cloud systems management is done completely over the internet, making it highly suited for international remote developer contracts."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What are the primary prerequisites?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What platforms will I master during the course?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How long is this bootcamp?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Does Karka support mock interview preparation?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "automation-testing": {
+    "slug": "automation-testing",
+    "title": "QA Automation Testing",
+    "desc": "Master software testing and automation frameworks to ensure high-quality software delivery.",
+    "metaDesc": "Master software testing and automation frameworks to ensure high-quality software delivery.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnQA Automation Testing?",
+        "desc": "No company launches software without testing. Automated QA engineers ensure platforms run smoothly, making them essential to development teams."
+      },
+      {
+        "title": "Flawless Software Priority",
+        "desc": "No company launches software without testing. Automated QA engineers ensure platforms run smoothly, making them essential to development teams."
+      },
+      {
+        "title": "High Scalability Demand",
+        "desc": "Manual software checking takes too long. Companies aggressively recruit engineers who can write code to test code automatically at scale."
+      },
+      {
+        "title": "Accessible Technical Path",
+        "desc": "An ideal tech entry point for those who want a structured coding career focused on logical system diagnostics, bug analysis, and system verification."
+      },
+      {
+        "title": "Strong Career Progression",
+        "desc": "Automation testers easily transition into Quality Assurance Lead, Release Manager, and Systems Architecture positions."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What software frameworks are covered in this track?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How does this compare to Manual Testing?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What is the course duration and mode?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Is prior software development experience required?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "mobile-app-development": {
+    "slug": "mobile-app-development",
+    "title": "Mobile App Development",
+    "desc": "Build cross-platform iOS and Android apps with React Native and Flutter. Launch real, production-ready apps to the App Store and Play Store.",
+    "metaDesc": "Build cross-platform iOS and Android apps with React Native and Flutter. Launch real, production-ready apps to the App Store and Play Store.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnMobile App Development?",
+        "desc": "Consumers spend hours daily on mobile apps. Every modern service business requires an app to engage users and drive revenue."
+      },
+      {
+        "title": "Mobile-First Global Shift",
+        "desc": "Consumers spend hours daily on mobile apps. Every modern service business requires an app to engage users and drive revenue."
+      },
+      {
+        "title": "High Innovation Flexibility",
+        "desc": "App development provides a direct path to launching your own digital product startup or working as an independent global developer."
+      },
+      {
+        "title": "Premium Tech Positions",
+        "desc": "Cross-platform app developers command excellent compensation structures and remote freelance contracts due to their dual iOS and Android output capabilities."
+      },
+      {
+        "title": "Fast Business Realization",
+        "desc": "Build fully functional app prototypes quickly and pitch your ideas to startup investors or launch them directly on stores."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What core frameworks are covered in this program?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Do I need a Mac computer to join this track?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How long is this developer bootcamp?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How does Karka's placement process work?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "hr-finance": {
+    "slug": "hr-finance",
+    "title": "HR & Finance Management",
+    "desc": "Master the essentials of Human Resources and Financial Management. Build a strong foundation in corporate operations.",
+    "metaDesc": "Master the essentials of Human Resources and Financial Management. Build a strong foundation in corporate operations.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnHR & Finance Management?",
+        "desc": "Behind every successful tech platform or local business is an operations team that keeps personnel organized and budgets balanced."
+      },
+      {
+        "title": "The Operational Spine",
+        "desc": "Behind every successful tech platform or local business is an operations team that keeps personnel organized and budgets balanced."
+      },
+      {
+        "title": "High Corporate Placement",
+        "desc": "Companies across every industry continuously recruit operations managers to handle hiring, employee benefits, and financial tracking."
+      },
+      {
+        "title": "Respected Management Path",
+        "desc": "Provides a direct route into corporate leadership, giving you key insights into how corporate networks function internally."
+      },
+      {
+        "title": "Invaluable Cross-Domain Skills",
+        "desc": "Understanding both talent management and operational budgets makes you a highly flexible executive in any corporate structure."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What career paths open up after this course?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Does this course cover legal and tax compliance?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How long is this program and where is it held?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Is this program open to non-commerce students?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "tally": {
+    "slug": "tally",
+    "title": "Tally Prime & Accounting",
+    "desc": "Expert training in Tally Prime for accounting and business management. Essential certification for aspiring accountants.",
+    "metaDesc": "Expert training in Tally Prime for accounting and business management. Essential certification for aspiring accountants.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnTally Prime & Accounting?",
+        "desc": "Every retail outlet, tech startup, and global corporation must file taxes and track financial entries to stay legally compliant."
+      },
+      {
+        "title": "Continuous Commercial Need",
+        "desc": "Every retail outlet, tech startup, and global corporation must file taxes and track financial entries to stay legally compliant."
+      },
+      {
+        "title": "Immediate Local Placement",
+        "desc": "Nagercoil and global businesses constantly seek certified specialists to handle cloud accounting platforms, ledger entries, and tax processing."
+      },
+      {
+        "title": "Excellent Freelance Flexibility",
+        "desc": "Certified accounting specialists can manage financial books independently for multiple small business clients simultaneously, securing stable freelance revenues."
+      },
+      {
+        "title": "Indispensable Business Asset",
+        "desc": "Clear financial compliance and bookkeeping protect businesses from errors, making experienced accountants highly valued assets."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What software tools are covered in this curriculum?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Is this program suitable for non-commerce students?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What is the duration and mode of study?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How does the placement support system work?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "business-analyst": {
+    "slug": "business-analyst",
+    "title": "Business Analyst",
+    "desc": "Bridge the gap between business and technology with data-driven insights. Learn to drive strategic change in organizations.",
+    "metaDesc": "Bridge the gap between business and technology with data-driven insights. Learn to drive strategic change in organizations.",
+    "details": {},
+    "whyLearn": [
+      {
+        "title": "Why LearnBusiness Analyst?",
+        "desc": "Business analysts help companies avoid expensive project mistakes by carefully planning software requirements, keeping them in high demand."
+      },
+      {
+        "title": "Strategic Corporate Asset",
+        "desc": "Business analysts help companies avoid expensive project mistakes by carefully planning software requirements, keeping them in high demand."
+      },
+      {
+        "title": "Prestigious Management Pathway",
+        "desc": "BAs collaborate closely with product managers and corporate executives, providing a clear route into senior executive leadership positions."
+      },
+      {
+        "title": "No-Code Technical Domain",
+        "desc": "Perfect for individuals who want a strategic tech company role focused on business optimization, logic, and planning over backend programming."
+      },
+      {
+        "title": "High Global Market Mobility",
+        "desc": "Analytical and strategic business documentation frameworks are identical worldwide, allowing for excellent international career mobility."
+      }
+    ],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is the core role of a Business Analyst?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "What tools are taught in this bootcamp?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How long is this program and what is the training mode?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "How does Karka’s Pay After Placement model work here?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "python-for-kids": {
+    "slug": "python-for-kids",
+    "title": "Python for Kids",
+    "desc": "Interactive introduction to programming logic using Python. Build games and animations while learning core coding concepts.",
+    "metaDesc": "Interactive introduction to programming logic using Python. Build games and animations while learning core coding concepts.",
+    "details": {
+      "duration": "Retro Snake GameWhy Choose Karka for YourPython for KidsSix reasons our students graduate job-ready, not just certificate-ready.Zero Upfront Fees (Pay After Placement)We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job.AI-First Practical CurriculumWe don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants.Real-World Agency ProjectsSay goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets.Guaranteed Internship ExperienceTransition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio.Multi-Skill AdvantageWe build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit.End-to-End Placement SupportOur dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners.Your Career,Our ResponsibilityWe don't just teach you; we prepare you for your dream job. Our dedicated placement cell works tirelessly to connect you with top opportunities.1-on-1 Career MentoringUnlimited Mock InterviewsResume & Portfolio BuildingIndustry Networking95%Placement RateConsistent track record of success\"The support I received from Karka was phenomenal. They guided me at every step from learning to landing my first job.\"Python for KidsAdmission Process1RegistrationParents can register their children through the online portal.2OrientationA quick session for parents and students to understand the curriculum.3EnrollmentSecure the spot and start the coding journey.How OurPython for KidsComparesFeatureThis ProgramStandard CoursesCurriculumIndustry-Aligned & UpdatedTheoreticalMentorship1-on-1 with ExpertsGroup Sessions onlyPlacementDedicated SupportLimited / NoneProjectsLive Industry ProjectsBasic ExercisesInternshipChance to work on Internship @AgileTribersNo Official SupportCommunityAlumni Network AccessLimited AccessMeet YourPython for KidsInstructorsMichael ParkSTEM InstructorKodable4 YearsExperiencePython for KidsFAQsWhat is the mode of training?We offer both online and offline training options to suit your convenience.Do you offer placement support?Yes, we provide 100% placement support including resume building and mock interviews.Can I pay in installments?Yes, we have flexible EMI options available.Still have questions?Our academic counselors are here to help you make the right choice for your career. Reach out to us today.Request a CallbackChat on WhatsAppReady to Future-Proof Your Career?Join the AI revolution with Karka Academy today and start your journey with industry mentors.Apply for AdmissionExplore CoursesEmpowering the next generation of developers withGenAI Infusededucation and placement-focused mentorship.Our ProgramsHomeAll CoursesPlacementFree RoadmapKarka AcademyAbout UsOur MentorsSuccess StoriesBlogHire From UsContactStay UpdatedAcademy HQNagercoil, Tamil Nadu, IndiaPhone+91 9487530243©2026Karka Academy. All rights reserved.Privacy PolicyTerms of ServiceBuilt with Passion by Karka"
+    },
+    "whyLearn": [],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is the mode of training?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Do you offer placement support?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Can I pay in installments?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  },
+  "fullstack-internship": {
+    "slug": "fullstack-internship",
+    "title": "Full Stack Developer Internship",
+    "desc": "Rigorous MERN stack training for students. Master DevOps, System Design, and Production best practices on large-scale apps.",
+    "metaDesc": "Rigorous MERN stack training for students. Master DevOps, System Design, and Production best practices on large-scale apps.",
+    "details": {},
+    "whyLearn": [],
+    "curriculum": [
+      {
+        "module": "Course Details",
+        "topics": [
+          "Home",
+          "All Courses",
+          "Placement",
+          "Free Roadmap"
+        ]
+      }
+    ],
+    "whyChoose": [
+      {
+        "title": "Zero Upfront Fees (Pay After Placement)",
+        "desc": "We remove all financial barriers to your education. You can enroll, master cutting-edge tech or creative skills, and complete your training with zero upfront tuition fees—you only pay us once you land a job."
+      },
+      {
+        "title": "AI-First Practical Curriculum",
+        "desc": "We don't just teach traditional code and tools. Every course integrates advanced generative AI workflows so you learn to write code, debug, create graphics, and write copy at 10x speed using modern AI assistants."
+      },
+      {
+        "title": "Real-World Agency Projects",
+        "desc": "Say goodbye to outdated textbook theory. Our students build live, production-ready applications, manage actual cloud architectures, and design branding campaigns for real business assets."
+      },
+      {
+        "title": "Guaranteed Internship Experience",
+        "desc": "Transition smoothly from student to professional. Every program includes a hands-on industry internship where you work alongside senior developers and creators on real client deliverables, graduating with a verified portfolio."
+      },
+      {
+        "title": "Multi-Skill Advantage",
+        "desc": "We build versatile professionals. If you enroll in our marketing or content tracks, you also get dedicated training in graphic design, video editing, and digital marketing so you graduate with a highly competitive, multi-media toolkit."
+      },
+      {
+        "title": "End-to-End Placement Support",
+        "desc": "Our dedicated placement cell works tirelessly for you. From 1-on-1 industry mentoring and ATS-optimized resume building to rigorous mock technical interviews, we connect you directly with our network of hiring partners."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is the mode of training?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Do you offer placement support?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      },
+      {
+        "q": "Can I pay in installments?",
+        "a": "Our academic counselors are here to help you make the right choice for your career. Reach out to us today."
+      }
+    ]
+  }
+}
